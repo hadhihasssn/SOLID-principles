@@ -1,6 +1,6 @@
-// Single Responsibility Principle (SRP)
-// Definition: A class should have one, and only one, reason to change. This means that a class should only have one job or responsibility.
-// ---------------------------------------------------------------------------------------------------------------------------------------------------------
+// ? Single Responsibility Principle (SRP)
+// ? Definition: A class should have one, and only one, reason to change. This means that a class should only have one job or responsibility.
+//  ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 // Class representing a user in the system
